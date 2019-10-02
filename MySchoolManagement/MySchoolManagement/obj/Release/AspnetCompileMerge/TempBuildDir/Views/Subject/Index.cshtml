@@ -1,0 +1,53 @@
+﻿
+
+@model PagedList.IPagedList<MySchoolManagement.Models.Subject>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+
+}
+
+<h2>Subjec List </h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using (Html.BeginForm("Index", "Subject", FormMethod.Get))
+{
+    <p>
+       
+        Search by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("Subject Name", "Index", new { sortOrder = ViewBag.NameSortParm })
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SubjectName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.SubjectID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.SubjectID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.SubjectID })
+            </td>
+        </tr>
+    }
+
+</table>
+
+ Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

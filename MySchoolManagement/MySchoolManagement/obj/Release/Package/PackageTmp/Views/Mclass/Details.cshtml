@@ -1,0 +1,51 @@
+﻿@model MySchoolManagement.Models.Mclass
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Mclass</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Section.ShiftName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Section.ShiftName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Subject.SubjectName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Subject.SubjectName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Teacher.TeacherName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Teacher.TeacherName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MyClassName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MyClassName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.MyClassID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

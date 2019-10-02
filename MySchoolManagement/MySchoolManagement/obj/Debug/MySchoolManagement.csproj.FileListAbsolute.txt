@@ -1,0 +1,684 @@
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.dll.config
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.pdb
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.exe
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.exe.config
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.rsp
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.exe
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.exe.config
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.rsp
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.AppContext.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Console.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.exe
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.exe.config
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.rsp
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Antlr3.Runtime.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\EntityFramework.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Newtonsoft.Json.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Owin.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Helpers.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Mvc.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Optimization.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Razor.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\WebGrease.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Helpers.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Mvc.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Optimization.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Razor.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Newtonsoft.Json.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Antlr3.Runtime.pdb
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\EntityFramework.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.FirstMigration.resources
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.GenerateResource.cache
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.CopyComplete
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.dll
+C:\Users\IDB_C#\Downloads\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.pdb
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.dll.config
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.pdb
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.exe
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.exe.config
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.rsp
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.exe
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.exe.config
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.rsp
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.AppContext.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Console.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.exe
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.exe.config
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.rsp
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Antlr3.Runtime.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\EntityFramework.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Newtonsoft.Json.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Owin.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Helpers.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Mvc.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Optimization.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Razor.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\WebGrease.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Helpers.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Mvc.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Optimization.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.Razor.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Newtonsoft.Json.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Antlr3.Runtime.pdb
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\EntityFramework.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.FirstMigration.resources
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.GenerateResource.cache
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.CopyComplete
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.pdb
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csprojAssemblyReference.cache
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SH SOHEL\Downloads\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.dll.config
+D:\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.dll
+D:\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.pdb
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.exe
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.exe.config
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.rsp
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.exe
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.exe.config
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.rsp
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.AppContext.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Console.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Globalization.Calendars.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.Compression.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Net.Http.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Net.Sockets.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.ValueTuple.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XPath.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.exe
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.exe.config
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.rsp
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\VBCSCompiler.exe
+D:\MySchoolManagement\MySchoolManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\MySchoolManagement\MySchoolManagement\bin\Antlr3.Runtime.dll
+D:\MySchoolManagement\MySchoolManagement\bin\EntityFramework.dll
+D:\MySchoolManagement\MySchoolManagement\bin\EntityFramework.SqlServer.dll
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.dll
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.dll
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\MySchoolManagement\MySchoolManagement\bin\Newtonsoft.Json.dll
+D:\MySchoolManagement\MySchoolManagement\bin\Owin.dll
+D:\MySchoolManagement\MySchoolManagement\bin\System.Web.Helpers.dll
+D:\MySchoolManagement\MySchoolManagement\bin\System.Web.Mvc.dll
+D:\MySchoolManagement\MySchoolManagement\bin\System.Web.Optimization.dll
+D:\MySchoolManagement\MySchoolManagement\bin\System.Web.Razor.dll
+D:\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Deployment.dll
+D:\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.dll
+D:\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Razor.dll
+D:\MySchoolManagement\MySchoolManagement\bin\WebGrease.dll
+D:\MySchoolManagement\MySchoolManagement\bin\EntityFramework.xml
+D:\MySchoolManagement\MySchoolManagement\bin\EntityFramework.SqlServer.xml
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.xml
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.xml
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MySchoolManagement\MySchoolManagement\bin\Newtonsoft.Json.xml
+D:\MySchoolManagement\MySchoolManagement\bin\System.Web.Helpers.xml
+D:\MySchoolManagement\MySchoolManagement\bin\System.Web.Mvc.xml
+D:\MySchoolManagement\MySchoolManagement\bin\System.Web.Razor.xml
+D:\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.xml
+D:\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Deployment.xml
+D:\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Razor.xml
+D:\MySchoolManagement\MySchoolManagement\bin\System.Web.Optimization.xml
+D:\MySchoolManagement\MySchoolManagement\bin\Antlr3.Runtime.pdb
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.CoreCompileInputs.cache
+D:\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.CopyComplete
+D:\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.dll
+D:\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.pdb
+D:\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Seven.resources
+D:\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.GenerateResource.cache
+D:\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Eight.resources
+D:\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Nine.resources
+D:\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csprojAssemblyReference.cache
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.dll.config
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.pdb
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.exe
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.exe.config
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.rsp
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.exe
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.exe.config
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.rsp
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.AppContext.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Console.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.exe
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.exe.config
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.rsp
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Antlr3.Runtime.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\EntityFramework.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Newtonsoft.Json.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Owin.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Helpers.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Mvc.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Optimization.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Razor.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\WebGrease.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\EntityFramework.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Newtonsoft.Json.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Helpers.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Mvc.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Razor.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Optimization.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Antlr3.Runtime.pdb
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.GenerateResource.cache
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.CopyComplete
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.pdb
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.dll.config
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.pdb
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.exe
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.exe.config
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.rsp
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.exe
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.exe.config
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.rsp
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.AppContext.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Console.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.exe
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.exe.config
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.rsp
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Antlr3.Runtime.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\AutoMapper.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\EntityFramework.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Newtonsoft.Json.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Owin.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\PagedList.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\PagedList.Mvc.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Helpers.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Mvc.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Optimization.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Razor.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\WebGrease.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\AutoMapper.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\EntityFramework.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Newtonsoft.Json.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\PagedList.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\PagedList.Mvc.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Helpers.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Mvc.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Razor.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\System.Web.Optimization.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Antlr3.Runtime.pdb
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.CopyComplete
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.pdb
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Tweleve.resources
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.GenerateResource.cache
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\bin\AutoMapper.Attributes.dll
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Thirteen.resources
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Fourteen.resources
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Fifteen.resources
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Sixteeen.resources
+C:\Users\SH SOHEL\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Sixteen.resources
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\AutoMapper.Attributes.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\AutoMapper.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\PagedList.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\PagedList.Mvc.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\AutoMapper.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\PagedList.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\bin\PagedList.Mvc.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Tweleve.resources
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Thirteen.resources
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Fourteen.resources
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Fifteen.resources
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Sixteeen.resources
+C:\Users\IDB_C#\Desktop\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Sixteen.resources
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.dll.config
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\MySchoolManagement.pdb
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.exe
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.exe.config
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\csc.rsp
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.exe
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.exe.config
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\csi.rsp
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.AppContext.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Console.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.exe
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.exe.config
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\vbc.rsp
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Antlr3.Runtime.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\AutoMapper.Attributes.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\AutoMapper.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\EntityFramework.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Newtonsoft.Json.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Owin.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\PagedList.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\PagedList.Mvc.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\System.Web.Helpers.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\System.Web.Mvc.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\System.Web.Optimization.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\System.Web.Razor.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\WebGrease.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\AutoMapper.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\EntityFramework.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Newtonsoft.Json.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\PagedList.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\PagedList.Mvc.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\System.Web.Helpers.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\System.Web.Mvc.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\System.Web.Razor.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\System.Web.Optimization.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Antlr3.Runtime.pdb
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csprojAssemblyReference.cache
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Tweleve.resources
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Thirteen.resources
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Fourteen.resources
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Fifteen.resources
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Sixteeen.resources
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.Migrations.Sixteen.resources
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.GenerateResource.cache
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.csproj.CopyComplete
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.dll
+C:\Users\IDB_C#\Desktop\Shakhawat\MySchoolManagement\MySchoolManagement\obj\Debug\MySchoolManagement.pdb

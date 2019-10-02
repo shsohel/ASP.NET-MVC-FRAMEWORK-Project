@@ -1,0 +1,69 @@
+﻿@model IEnumerable<MySchoolManagement.Models.Student>
+
+@{
+    ViewBag.Title = "AddStudent";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+
+<h2>Add Student</h2>
+
+<div>
+    <div class="row">
+        <div class="col-md-6">
+            <form id="Index" method="post" enctype="multipart/form-data" onsubmit="return AjaxPost(this)">
+
+                <label> Class Name</label>
+
+                <div class="form-group" style="margin-left:-15px">
+                    <div class="col-md-10">
+                        @Html.DropDownList("MyClassID", null, htmlAttributes: new { @class = "form-control" })
+                    </div>
+
+
+                </div>
+                <br />
+
+                <label>Student Name : </label>
+                <input id="StudentName" name="StudentName" class="form-control" placeholder="Student Name" />
+
+                <label>Student Role No</label>
+                <input id="RoleNo" name="RoleNo" class="form-control" placeholder="Role Number" />
+
+                <label>Birth Date</label>
+                <input id="BirthofDate" type="date" name="BirthofDate" class="form-control" placeholder="Birth of Date" />
+
+                <label>Cell Phone No</label>
+                <input id="CellPhoneNo" name="CellPhoneNo" class="form-control" placeholder="Cell Phone No" />
+
+                <label>Address</label>
+                <input id="Address" name="Address" class="form-control" placeholder="Address" />
+
+                <label>Photo</label>
+                <input id="ImageUpload" name="ImageUpload" class="form-control" type="file" />
+                <br />
+                <button class="btn btn-success">Add Student</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    function AjaxPost(formData) {
+        var ajaxConfig = {
+            type: "post",
+            url: "/Student/DataSava",        ///Save Data by using Controller wtih Action
+            data: new FormData(formData),
+            success: function (result) {
+                alert(result);
+                window.location.href = "/Student/Index"  /// Redirect to page with controll and Action
+            }
+        }
+        if ($(formData).attr('enctype') == "multipart/form-data") {
+            ajaxConfig["contentType"] = false;
+            ajaxConfig["processData"] = false;
+        }
+        $.ajax(ajaxConfig);
+        return false;
+    }
+</script>
+

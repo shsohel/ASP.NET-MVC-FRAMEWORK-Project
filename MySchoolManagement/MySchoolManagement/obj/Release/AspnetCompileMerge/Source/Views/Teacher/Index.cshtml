@@ -1,0 +1,72 @@
+﻿@model IEnumerable<MySchoolManagement.Models.Teacher>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TeacherName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BirthofDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CellPhoneNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ConfirmPhoneNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmailAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th hidden="hidden">
+            @Html.DisplayNameFor(model => model.PicUrl)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TeacherName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BirthofDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CellPhoneNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ConfirmPhoneNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmailAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td>
+            <a href='#'>
+                <img class="img-responsive" src="~/Images/@item.PicUrl" height="100" width="80" />
+            </a>
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.TeacherID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.TeacherID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.TeacherID })
+        </td>
+    </tr>
+}
+
+</table>

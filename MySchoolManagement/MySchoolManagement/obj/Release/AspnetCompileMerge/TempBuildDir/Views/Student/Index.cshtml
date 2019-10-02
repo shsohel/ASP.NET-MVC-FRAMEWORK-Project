@@ -1,0 +1,75 @@
+﻿@model IEnumerable<MySchoolManagement.Models.Student>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "AddStudent")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Mclass.MyClassName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RoleNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BirthofDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CellPhoneNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th hidden="hidden">
+            @Html.DisplayNameFor(model => model.PicUrl)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Mclass.MyClassName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StudentName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RoleNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BirthofDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CellPhoneNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td hidden="hidden">
+            @Html.DisplayFor(modelItem => item.PicUrl)
+        </td>
+        <td>
+            <a href='#'>
+                <img class="img-responsive" src="~/Images/@item.PicUrl" height="100" width="80" />
+            </a>
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.StudentID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.StudentID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.StudentID })
+        </td>
+    </tr>
+}
+
+</table>

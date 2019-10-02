@@ -1,0 +1,61 @@
+﻿@model IEnumerable<MySchoolManagement.Models.Examresult>
+
+@{
+    ViewBag.Title = "examResult";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<h2>Exam Result </h2>
+
+<br />
+<br />
+
+<table class="table" style="background-color:azure;">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Student.StudentName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ExamType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MarkInBangla)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MarkInEnglish)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MarkInMath)
+        </th>
+        <th>
+            <label> Total Marks </label>
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Student.StudentName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ExamType)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MarkInBangla)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MarkInEnglish)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MarkInMath)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.TotalMarks)
+        </td>
+
+    </tr>
+}
+
+</table>
